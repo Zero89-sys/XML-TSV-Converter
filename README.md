@@ -46,5 +46,5 @@ This project uses the following NuGet packages:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Zero89-sys/XML-TSV-Converter.git
    cd XML, TSV-Converter
