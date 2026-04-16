@@ -1,6 +1,5 @@
 ﻿using Dapper;
 using System.Data.SQLite;
-using System.Xml;
 using System.Xml.Linq;
 
 namespace XML_TSV_to_db3
